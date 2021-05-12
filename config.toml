@@ -1,4 +1,4 @@
-baseURL = "https://brainreveng.com"
+baseURL = "https://brainreveng.github.io"
 languageCode = "en-us"
 title = "Brain(RevEng)"
 theme = "dimension"
