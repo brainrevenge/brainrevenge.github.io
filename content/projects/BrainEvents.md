@@ -5,5 +5,5 @@ draft: true
 background: "/static/images/machine-learning-5720531_1280.png"
 ---
 
-REVENGed events that explain brain activity.
+REVENGe events that explain brain activity.
 
