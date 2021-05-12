@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brain(RevEng)</title>
+    <link>https://brainreveng.github.io/</link>
+    <description>Recent content on Brain(RevEng)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 May 2021 09:55:35 +0200</lastBuildDate><atom:link href="https://brainreveng.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About us</title>
+      <link>https://brainreveng.github.io/about/about_us/</link>
+      <pubDate>Wed, 12 May 2021 11:14:36 +0200</pubDate>
+      
+      <guid>https://brainreveng.github.io/about/about_us/</guid>
+      <description>We are primarily located in the Forschungszentrum Jülich and are part of the INM-7 Brain and Behaviour institute and the Institute of Systems Neuroscience at the University of Düsseldorf in Germany.
+You can find more details here.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://brainreveng.github.io/about/contact/</link>
+      <pubDate>Wed, 12 May 2021 11:14:36 +0200</pubDate>
+      
+      <guid>https://brainreveng.github.io/about/contact/</guid>
+      <description>Contact us at: contact @ brainreveng.com</description>
+    </item>
+    
+    <item>
+      <title>Brain(Events)</title>
+      <link>https://brainreveng.github.io/projects/brainevents/</link>
+      <pubDate>Wed, 12 May 2021 09:55:35 +0200</pubDate>
+      
+      <guid>https://brainreveng.github.io/projects/brainevents/</guid>
+      <description>REVENGed events that explain brain activity.</description>
+    </item>
+    
+    <item>
+      <title>Brain(Spheres)</title>
+      <link>https://brainreveng.github.io/projects/brainspheres/</link>
+      <pubDate>Wed, 12 May 2021 09:55:35 +0200</pubDate>
+      
+      <guid>https://brainreveng.github.io/projects/brainspheres/</guid>
+      <description>REVENGed spheres in the brain that meet user-specific requirements.</description>
+    </item>
+    
+    <item>
+      <title>Stay tuned</title>
+      <link>https://brainreveng.github.io/posts/stay_tuned/</link>
+      <pubDate>Tue, 11 May 2021 23:45:36 +0200</pubDate>
+      
+      <guid>https://brainreveng.github.io/posts/stay_tuned/</guid>
+      <description>We will be adding content here (hopefully soon).
+Stay tuned!!!</description>
+    </item>
+    
+  </channel>
+</rss>
