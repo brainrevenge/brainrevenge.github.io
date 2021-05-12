@@ -1,7 +1,7 @@
 ---
 title: "Brain(RevEng)e"
 date: 2021-05-12T09:55:35+02:00
-background: "images/technology-3358837_1280.jpg"
+background: "images/voodoo-5936491_1280.png"
 logo: "images/a-2729782_200.png"
 ---
 
