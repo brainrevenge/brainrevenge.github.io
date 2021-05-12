@@ -5,7 +5,7 @@ background: "images/machine-learning-6079971_1280.png"
 logo: "images/a-2729782_200.png"
 ---
 
-About Brain(RevEng)e
+Brain(RevEng)e is a collection of projects that aim to reverse engineer workings of the human brain. The approach we take for this is to optimize desired properties based on multi-modal neuroimaging data.
 
 We are researchers located in the Forschungszentrum Jülich and are part of the INM-7 Brain and Behaviour institute and the Institute of Systems Neuroscience at the University of Düsseldorf in Germany.
 
