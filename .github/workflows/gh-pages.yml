@@ -1,4 +1,7 @@
 name: github pages
+  with:
+    hugo-version: '0.83.1'
+    extended: true
 
 on:
   push:
