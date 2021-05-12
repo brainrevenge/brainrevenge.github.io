@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Brain(RevEng) on Brain(RevEng)e</title>
+    <title>Brain(RevEng)e</title>
     <link>https://brainrevenge.github.io/</link>
-    <description>Recent content in Brain(RevEng) on Brain(RevEng)e</description>
+    <description>Recent content on Brain(RevEng)e</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 May 2021 09:55:35 +0200</lastBuildDate><atom:link href="https://brainrevenge.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -32,7 +32,7 @@ You can find more details here.</description>
       <pubDate>Wed, 12 May 2021 09:55:35 +0200</pubDate>
       
       <guid>https://brainrevenge.github.io/projects/brainevents/</guid>
-      <description>REVENGed events that explain brain activity.</description>
+      <description>REVENGe events that explain brain activity.</description>
     </item>
     
     <item>
@@ -41,7 +41,7 @@ You can find more details here.</description>
       <pubDate>Wed, 12 May 2021 09:55:35 +0200</pubDate>
       
       <guid>https://brainrevenge.github.io/projects/brainspheres/</guid>
-      <description>REVENGed spheres in the brain that meet user-specific requirements.</description>
+      <description>REVENGe spheres in the brain that meet user-specific requirements.</description>
     </item>
     
     <item>
