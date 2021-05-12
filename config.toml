@@ -1,0 +1,5 @@
+baseURL = "https://brainreveng.com"
+languageCode = "en-us"
+title = "Brain(RevEng)"
+theme = "dimension"
+
