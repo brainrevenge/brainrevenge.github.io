@@ -1,21 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Brain(RevEng)e</title>
-    <link>https://brainrevenge.github.io/posts/</link>
-    <description>Recent content in Posts on Brain(RevEng)e</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 12 May 2021 09:55:35 +0200</lastBuildDate><atom:link href="https://brainrevenge.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Stay tuned</title>
-      <link>https://brainrevenge.github.io/posts/stay_tuned/</link>
-      <pubDate>Tue, 11 May 2021 23:45:36 +0200</pubDate>
-      
-      <guid>https://brainrevenge.github.io/posts/stay_tuned/</guid>
-      <description>We will be adding content here (hopefully soon).
-Stay tuned!!!</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Brain(RevEng)e</title><link>https://brainrevenge.github.io/posts/</link><description>Recent content in Posts on Brain(RevEng)e</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 12 May 2021 09:55:35 +0200</lastBuildDate><atom:link href="https://brainrevenge.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Stay tuned</title><link>https://brainrevenge.github.io/posts/stay_tuned/</link><pubDate>Tue, 11 May 2021 23:45:36 +0200</pubDate><guid>https://brainrevenge.github.io/posts/stay_tuned/</guid><description>We will be adding content here (hopefully soon).
+Stay tuned!!!</description></item></channel></rss>
