@@ -6,3 +6,5 @@ draft: false
 
 REVENGe organization that meets user requirements.
 
+We will keep this updated as the project progresses.
+
